@@ -1,0 +1,4 @@
+path1=D:\github\InternationalTool\test.txt
+path2=D:\github\InternationalTool\result.txt
+path3=D:\github\InternationalTool\result.txt
+path4=D:\github\InternationalTool\test.txt

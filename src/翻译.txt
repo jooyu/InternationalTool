@@ -1,0 +1,401 @@
+﻿	
+添加物品	Thêm vật phẩm
+原文字	翻译
+服务器列表	DS server
+角色ID/昵称	ID/nickname nhân vật
+物资类型	Loại vật tư
+物资数量	S.lg vật tư
+发放物品	Gửi vật phẩm
+发放结果	Kết quả gửi
+银两	Bạc
+金币	Vàng
+元宝	KNB
+经验	EXP
+宠物经验	EXP Pet
+战场积分	Điểm đấu trường
+帮贡	C.hiến bang
+帮派资金	Quỹ bang
+善缘点	Điểm thân thiện
+	
+扣除物品	Khấu trừ vật phẩm
+原文字	翻译
+服务器列表	DS server
+角色ID/昵称	ID/nickname nhân vật
+物资类型	Loại vật tư
+物资数量	S.lg vật tư
+银两	Bạc
+金币	Vàng
+元宝	KNB
+扣除物品	Khấu trừ vật phẩm
+扣除结果	Kết quả khấu trừ
+	
+GM指令	Lệnh GM
+原文字	翻译
+指令	Lệnh
+格式	Dạng
+实例	
+描述	Mô tả
+命令	Mệnh lệnh
+服务器列表	DS server
+发送	Gửi
+审核状态	Trạng thái thẩm tra
+用户名	Tên user
+用户类型	Loại user
+服务器ID	ID server
+GM指令	Lệnh GM
+审核状态	Trạng thái thẩm tra
+创建时间	Thời gian tạo
+审核	Thẩm tra
+删除	Xóa
+	
+封禁角色	Block user
+原文字	翻译
+角色ID	ID nhân vật
+服务器ID	ID server
+封禁时间	Thời gian block
+封禁原因	Nguyên nhân
+开始时间	Thời gian bắt đầu
+时长	Thời lượng
+保存	Lưu
+返回	Trở về
+解禁	Unblock
+请选择需要解禁的角色	Chọn nhân vật cần block
+请输入合法信息	Nhập thông tin hợp lệ
+	
+封禁管理	Quản lý block
+原文字	翻译
+封账号	Tài khoản khóa
+IP	IP
+MAC	MAC
+UDID	UDID
+账号	Tài khoỏa
+服务器ID	ID server
+封禁时间	Thời gian block
+封禁原因	Nguyên nhân
+封禁类型	Loại block
+开始时间	Bắt đầu
+时长	Thời lượng
+发送	Gửi
+封禁结果	Kết quả
+解封	Unblock
+你是否确认解除该封禁	Xác nhận unblock?
+解除成功	Unblock thành công
+	
+禁止预定婚礼	Cấm dự kiến hôn lễ
+原文字	翻译
+服务器列表	DS server
+状态	Trạng thái
+服务器在线	Server online
+开始时间	Bắt đầu
+结束时间	Kết thúc
+禁止/允许	Cấm/Cho phép
+提交	Gửi
+结果	Kết quả
+	
+充值礼包管理	Quản lý quà nạp
+原文字	翻译
+订单号	Mã giao dịch
+订单时间	Thời gian giao dịch
+SDK订单号	Mã giao dịch SDK
+服务器ID	ID server
+用户名	Tên user
+角色ID	Tên nhân vật
+平台类型	Loại platform
+渠道ID	ID kênh
+越南盾	VNĐ
+充值产品ID	ID sản phẩm nạp
+状态	Trạng thái
+是否发货	Có gửi đồ?
+新增	Thêm mới
+充值类型	Loại nạp
+周卡	Thẻ tuần
+月卡	Thẻ tháng
+60元宝	60 KNB
+300元宝	300 KNB
+980元宝	980 KNB
+1980元宝	1980 KNB
+3280元宝	3280 KNB
+6480元宝	6480 KNB
+宝石特惠1元	Ưu đãi ngọc 1 tệ
+宝石特惠3元	Ưu đãi ngọc 3 tệ
+宝石特惠6元	Ưu đãi ngọc 6 tệ
+成长基金一	Quỹ trưởng thành 1
+成长基金二	Quỹ trưởng thành 2
+成长基金三	Quỹ trưởng thành 3
+成长基金四	Quỹ trưởng thành 4
+一键购买宝石特惠	Mua Ưu đãi ngọc nhanh
+7天宝石特惠	Ưu đãi ngọc 7 ngày
+宠物特惠3元	Ưu đãi pet 3 tệ
+宠物特惠6元	Ưu đãi pet 6 tệ
+宠物特惠12元	Ưu đãi pet 12 tệ
+一键购买宠物特惠	Mua Ưu đãi pet nhanh
+7天宠物特惠	Ưu đãi pet 7 ngày
+摇钱树1元	Rung cây tiền 1 tệ
+摇钱树3元	Rung cây tiền 3 tệ
+摇钱树8元	Rung cây tiền 8 tệ
+摇钱树18元	Rung cây tiền 18 tệ
+一本万利	Một vốn 4 lời
+周卡（首次6.5折）	Thẻ tuần (Lần đầu -35%)
+月卡（首次6.5折）	Thẻ tháng (Lần đầu -35%)
+一键摇钱树	Rung cây tiền nhanh
+限时雷灵王	Lôi Vương theo giờ
+限时黑无常	Hắc vô thường theo giờ
+成长基金五	Quỹ trưởng thành 5
+成长基金六	Quỹ trưởng thành 6
+成长基金七	Quỹ trưởng thành 7
+10元宝	10 KNB
+30元宝	30 KNB
+60元宝	60 KNB
+80元宝	80 KNB
+120元宝	120 KNB
+180元宝	180 KNB
+300元宝	300 KNB
+680元宝	680 KNB
+980元宝	980 KNB
+1080元宝	1080 KNb
+1280元宝	1280 KNB
+1980元宝	1980 KNB
+3280元宝	3280 KNB
+6480元宝	6480 KNb
+	
+充值礼包审核管理	Quản lý Kiểm tra quà nạp
+原文字	翻译
+审核状态	Trạng thái thẩm tra
+所有	Toàn bộ
+发送失败	Gửi thất bại
+待审核	Chờ thẩm tra
+已发送	Đã gửi
+ID	ID
+用户们	Tên user
+用户类型	Loại user
+服务器ID	ID server
+服务器名	Tên server
+角色ID	ID nhân vật
+充值ID	ID nạp
+产品名称	Tên sản phẩm
+审核状态	Trang thại thẩm tra
+创建时间	Thời gian tạo
+审核	Thẩm tra
+删除	Xóa
+	
+角色禁言	Cấm chat
+原文字	翻译
+服务器列表	DS server
+角色ID	ID nhân vật
+时长	Thời lượng
+禁言原因	Nguyên nhân
+发送	Gửi
+封号结果	Kết quả
+开始时间	Bắt đầu
+发送全服邮件	Gửi thư all server
+原文字	翻译
+服务器列表	DS server
+显示服务器	Server hiển thị
+邮件主题	Tiêu đề
+邮件内容	Nội dung
+玩家等级	Cấp user
+开始时间	Bắt đầu
+结束时间	Kết thúc
+附件一	Đính kèm 1
+附件二	Đính kèm 2
+附件三	Đính kèm 3
+附件四	Đính kèm 4
+发送邮件	Gửi thư
+ID	ID
+角色ID	ID nhân vật
+用户名	Tên user
+用户类型	Loại user
+服务器列表	DS server
+主题	Tiêu đề
+内容	Nội dung
+附件	Đính kèm
+发送结果	Kết quả gửi
+创建时间	Thời gian tạo
+等级限制	Cấp giới hạn
+开始时间	Bắt đầu
+结束时间	Kết thúc
+截止时间	Dừng
+审核状态	Trạng thái thẩm tra
+审核	Thẩm tra
+删除	Xóa
+	
+批量玩家邮件	Gửi thư đến nhiều user
+原文字	翻译
+服务器列表	DS server
+角色ID	ID nhân vật
+多个角色ID字母逗号分割	Ngăn cách giữa các ID nhân vật bằng dấu phẩy
+邮件主题	Tiêu đề
+邮件内容	Nội dung
+附件一	Đính kèm 1
+附件二	Đính kèm 2
+附件三	Đính kèm 3
+附件四	Đính kèm 4
+发送邮件	Gửi thư
+	
+发送玩家邮件	Gửi thư cho user
+原文字	翻译
+服务器列表	DS server
+角色ID	ID nhân vật
+邮件主题	Tiêu đề
+邮件内容	Nội dung
+附件一	Đính kèm 1
+附件二	Đính kèm 2
+附件三	Đính kèm 3
+附件四	Đính kèm 4
+发送邮件	Gửi thư
+	
+邮件任务列表	DS thư nhiệm vụ
+原文字	翻译
+ID	ID
+类型	Loại
+筛选条件	Lọc
+管理员	Admin
+服务器	Server
+主题	Tiêu đề
+内容	Nội dung
+附件	Đính kèm
+定时发送	Gửi thời gian xác định
+创建时间	Thời gian tạo
+等级限制	Cấp giới hạn
+开始时间	Bắt đầu
+结束时间	Kết thúc
+	
+邮件任务删除功能	Tính năng xóa thư nhiệm vụ
+原文字	翻译
+ID	ID
+类型	Loại
+筛选条件	Lọc
+管理员	Admin
+服务器	Server
+主题	Tiêu đề
+内容	Nội dung
+附件	Đính kèm
+定时发送	Gửi thời gian xác định
+创建时间	Thời gian tạo
+等级限制	Cấp giới hạn
+开始时间	Bắt đầu
+结束时间	Kết thúc
+更新公告管理	Quarnlys thông báo update
+原文字	翻译
+公告ID	ID thông báo
+公告编号	ID thông báo
+渠道ID	ID kênh
+公告标题	Tiêu đề
+公告内容	Nội dung
+公告类型	Loại
+更新时间	Thời gian update
+新增	Thêm mới
+编辑	Sửa
+删除	Xóa
+公告	Thông báo
+活动	Sự kiện
+保存	Lưu
+返回	Trở về
+渠道选择	Chọn kênh
+	
+游戏内公告管理	Quản lý thông báo game
+原文字	翻译
+公告ID	ID thông báo
+服务器ID	ID server
+公告方式	Cách thức thông báo
+显示方式	Cách thức hiển thị
+开始时间	Bắt đầu
+结束时间	Kết thúc
+间隔	Khoảng cách
+主题	Tiêu đề
+内容	Nội dung
+新增	Thêm mới
+编辑	Sửa
+删除	Xóa
+弹出公告	THông báo popup
+时间安排播放	Sắp xếp thời gian phát
+置顶	Ghim
+聊天栏	Thanh chat
+	
+问卷管理	Quản lý bảng câu hỏi
+原文字	翻译
+服务器ID	ID server
+问卷标题	Tiêu đề bảng câu hỏi
+问卷URL	URL bảng câu hỏi
+开始时间	Bắt đầu
+结束时间	Kết thúc
+新增	Thêm mới
+删除	Xóa
+首充重置管理	Quản lý cài lại nạp
+原文字	翻译
+服务器ID	ID Server
+服务器名称	Tên server
+操作时间	Thời gian thao tác
+新增	Thêm mới
+删除	Xóa
+保存	lưu
+返回	Trở về
+活动ID	ID sự kiện
+活动名称	Tên SK
+活动类型	Loại SK
+服务器ID	ID server
+活动渠道	Kênh SK
+方式	Cách thức
+开服天数	Số ngày mở server
+开始时间	Bắt đầu
+结束时间	Kết thúc
+黑市概率（银两/金币/元宝）	Tỷ lệ chợ đen (Bạc/Vàng/KNB)
+新增	Thêm mới
+删除	Xóa
+编辑	Sửa
+新增活动（全服响应较慢，慎选）	SK thêm mới (all sv sẽ hơi chậm, chọn cẩn thận)
+特别说明：全选（所有开启中的游戏服）	Đặc biệt: Chọn hết (Tất cả sv game đang mở)
+全服：整个游戏的服务器，也包含将来要增加的服务器	All sv: toàn bộ các sv game, cũng gồm cả các sv sẽ tăng thêm
+服务器ID	ID server
+活动名称	Tên SK
+活动类型	Loại SK
+玩家等级	Cấp user
+最小等级	Cấp tối thiếu
+最大等级	Cấp tối đa
+不填是无限制	Trống là không hạn chế
+VIP等级	Cấp VIP
+最小等级	Cấp tối thiếu
+最大等级	Cấp tối đa
+战斗力	Chiến lực
+最小战力	Chiến lực min
+最大战力	Chiến lực max
+天宠数量	S.lg Thiên Sủng
+最小数量	S.lg min
+最大数量	S.lg max
+充值金额	Mức nạp
+最小金额	Mức min
+最大金额	Mức max
+参数1	Tham số 1
+参数2	Tham số 2
+奖励批次	Thưởng hàng loạt
+渠道选择	Chọn kênh
+开始方式	Cách mở
+自然日	Ngày tự nhiên
+开服天数	Số ngày mở server
+开始时间	Bắt đầu
+结束时间	Kết thúc
+宠物抽宠六折	Vàng quay Pet 10 lần giảm 40%
+宠物抽宠八折	Vàng quay Pet 10 lần giảm 20%
+坐骑培养效果提升	Tăng hiệu quả nuôi Thú Cưỡi
+黑市商店	Shop Chợ Đen
+连充大礼	Quà nạp liên tiếp
+超级VIP	VIP siêu cấp
+合服登录活动	Sự kiện đăng nhập gộp server
+合服特惠商城	Shop ưu đãi gộp server
+节日特惠商城	Shop ưu đãi ngày lễ
+珍珑阁	Trân Lung Các
+每日消费返利	Tiêu phí hoàn lại mỗi ngày
+砸金蛋	Đập trứng
+红包雨	Mưa lì xì
+帮派首领	Boss bang
+卖场	Shop
+兑换	Đổi
+操作日志	Log thao tác
+原文字	翻译
+筛选	Lọc
+ID	ID
+管理员	Admin
+服务器名称	Tên server
+执行命令	Lệnh thi hành
+执行结果	Kết quả thi hành
+执行时间	T.gian thi hành

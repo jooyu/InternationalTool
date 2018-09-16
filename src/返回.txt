@@ -1,0 +1,785 @@
+Thay đổi trạng thái sự kiện liên server, ID sự kiện:	修改跨服活动状态，活动id：
+Trạng thái	，状态
+Lỗi chỉnh sửa quà!	礼包编辑出错！
+Giftcode	礼包码
+Giftcode:	礼包码：
+Lượt nhận	领取次数：
+Xảy ra bất thường	导出异常
+Đóng dòng chảy bất thường	关闭流异常
+Tạo hàng loạt Giftcode bị lỗi	批量生成礼包码出错
+dải	条
+Lỗi server ID	服务器id 错误！
+Xóa thẩm định	删除审核
+Thẩm định gia tăng tài nguyên	审核添加资源
+server online	服务器在线
+server offline	服务器不在线
+Nhân vật không tồn tại!	角色不存在！
+Xóa thẩm định gm	删除gm审核
+Lệnh kiểm tra gm	审核gm指令
+Quản lí khóa nhân vật	封角色管理
+Mở khóa Role	角色解禁
+Quản lý block	封禁管理
+Mở khóa	解禁
+Quản lý block	禁言管理
+Mở khóa Cấm chat	角色禁言解禁
+Người chơi không ở server này	玩家不在该服
+Người chơi không có trong white list	玩家不在白名单
+Xóa thẩm định nạp mô phỏng	删除模拟充值审核
+Mạng bất thường!	网络异常！
+Thẩm định lệnh nạp mô phỏng	审核模拟充值指令
+Gửi email toàn server	全服发送邮件
+Email người chơi hàng loạt	批量玩家邮件
+Email người chơi chỉ định	指定玩家邮件
+Trung tâm kiểm soát	中控
+Xóa thẩm định email	删除邮件审核
+Gửi email thẩm định	发送审核邮件
+Xóa thành công	删除成功
+Xóa server ID thất bại:	删除失败的服务器id：
+Tính năng xóa email nhiệm vụ	邮件任务删除功能
+Thành công kiểm tra server bộ phận thất bại	成功 部分服务器查询失败
+Kiểm tra thành công, nhưng kết quả bằng 0	查询成功，但是结果为空
+Đã tồn tại	已存在
+Tăng mới white list	新增白名单
+Người chơi không tồn tại!	玩家不存在！
+Xóa white list	删除白名单
+Xóa ghi nhớ cảnh báo white list	删除白名单预警记录
+Chỉnh sửa ghi nhớ cảnh báo white list	编辑白名单预警记录
+Không	无
+Sửa đổi tài khoản	修改账号
+Thiết bị đăng nhập của..., thiết bị cũ là:	的登录设备，旧设备为：
+Sửa thành:	修改为：
+Vẫn tồn tại server thuộc cụm này, không thể xóa	还有属于该分区的服务器存在，不能删除
+Tăng mới cụm Kênh	渠道分区 新增
+Tăng mới Kênh server	渠道服务器 新增
+Xóa cụm Kênh	渠道分区 删除
+Xóa Kênh server	渠道服务器 删除
+Tăng Kênh server	渠道服务器 增加
+Tăng server	服务器 增加
+Chỉnh sửa server	服务器 编辑
+Chỉnh sửa trạng thái server	服务器状态 修改
+Xóa server	服务器 删除
+Đánh giá phiên bản server	提审服版本
+Toàn server	全服
+Tăng white list	白名单 增加
+Xóa white list	白名单 删除
+Kích offline	踢玩家下线
+Server đã đóng	服务器已关闭
+Liên kết thất bại	失联了
+Server ID thất bại:	失败的服务器id：
+Tất cả server	所有服
+Kiểm tra liên kết game server	检查游戏服连接
+Lỗi ID sự kiện bị xóa	删除的活动id 错误！
+Thất bại	失败
+Nhận được	获得
+Chiếc!	个！
+Người dùng mới	新增用户
+Chỉnh sửa người dùng	编辑用户
+Thành công!	成功！
+Xóa người dùng	删除用户
+Thành công	成功
+Thất bại!	失败！
+Thêm vật phẩm	添加物品
+Trừ vật phẩm	扣除物品
+Thêm Thêm ghi nhớ thẩm định vật phẩm	添加 添加物品审核记录
+ID nhân vật hoặc tên người dùng	角色id 或者用户名
+Vật phẩm	物品
+Thêm danh sách thẩm định vật phẩm	添加物品审核列表
+Tất cả (0: đợi thẩm định, 1 đã thẩm định, 2 gửi thất bại, 3 đã gửi	所有 (0:待审核，1已审核，2发送失败，3已发送
+Thẩm định thêm	增加审核
+Tên người dùng	用户名
+Loại người dùng	用户类型
+server	服务器
+Hướng dẫn	指令
+Thêm log nạp	添加充值记录
+Tất cả	所有
+Đợi thẩm định	待审核
+Gửi thất bại	发送失败
+Đã gửi	已发送
+GMT quản lý Trung tâm kiểm soát	中控管理后台
+Sửa sự kiện (phản hồi toàn server tương đối chậm, vui lòng chọn cẩn thận) diễn giải đặc biệt: Chọn toàn bộ (Tất cả game server đang bật) Toàn server: (1 game server, cũng có thể bao gồm server cần thêm sau này)	编辑活动 (全服响应较慢，请慎选) 特别说明：全选（所有开启中的游戏服）全服：（整个游戏的服务器，也包含将来要增加的服务器）
+Tăng sự kiện (phản hồi toàn server tương đối chậm, vui lòng chọn cẩn thận) diễn giải đặc biệt: Chọn toàn bộ (Tất cả game server đang bật) Toàn server: (1 game server, cũng có thể bao gồm server cần thêm sau này)	新增活动 (全服响应较慢，请慎选) 特别说明：全选（所有开启中的游戏服）全服：（整个游戏的服务器，也包含将来要增加的服务器）
+serverid:	服务器id：
+Không điền là không giới hạn	不填是无限制
+level thấp nhất	最小等级
+level cao nhất	最大等级
+Sức chiến đấu tối thiểu	最小战力
+Sức chiến đấu tối đa	最大战力
+Số lượng pet	天宠数量
+Số lượng ít nhất	最小数量
+Số lượng nhiều nhất	最大数量
+Tiền nạp (Tệ	充值金额(元
+Tiền tối thiểu	最小金额
+Tiền tối đa	最大金额
+Phần thưởng hàng loạt	奖励批次
+Loại 1(sự kiện Chợ đen	类型1 (黑市活动
+Loại 2 (sự kiện Chợ đen	类型2 (黑市活动
+Loại 3 (sự kiện Chợ đen	类型3 (黑市活动
+Kho rớt (Trân Lung Các	掉落库(珍珑阁
+Tích quà (Trân Lung Các	积分奖励(珍珑阁
+Qùa bảng xếp hạng (Trân Lung Các	排行榜奖励(珍珑阁
+Kho rớt (xu giải trí	掉落库(游乐币
+Kho rớt (xu kỷ niệm	掉落库(纪念币
+Số lượt Phần thưởng hàng loạt	圈数奖励批次
+Bảng xếp hạng Phần thưởng hàng loạt	排行榜奖励批次
+Client server độc quyền	专属客服
+Dấu phẩy (,) làm dấu phân cách	英文逗号作为分隔符
+Xem trước phần thưởng	奖励预览
+Định dạng:	格式：
+Mô tả phần thưởng	奖励描述
+Phần thưởng	奖励
+Phương thức mở	开启方式
+Thời lượng vài ngày	持续天数
+Tham số	参数
+Loại 1 Vui lòng nhập số nguyên dương!	类型1请输入正整数！
+Loại 2 Vui lòng nhập số nguyên dương!	类型2请输入正整数！
+Loại 3 Vui lòng nhập số nguyên dương!	类型3请输入正整数！
+Loại 1 Số lượng đầu vào lớn hơn số lượng tối đa của loại này, số lượng tối đa:	类型1 输入的数量大于该类型的最大数， 最大数：
+Loại 2 Số lượng đầu vào lớn hơn số lượng tối đa của loại này, số lượng tối đa:	类型2 输入的数量大于该类型的最大数，最大数：
+Loại 3 Số lượng đầu vào lớn hơn số lượng tối đa của loại này, số lượng tối đa:	类型3 输入的数量大于该类型的最大数，最大数：
+Chợ đen Vui lòng nhập số lượng sản phẩm bằng 6!	黑市请输入个数和等于6的商品！
+Vui lòng nhập vip Client server độc quyền!	请输入vip专属客服！
+Vui lòng nhập nội dung Phần thưởng Vật phẩm!	请输入奖励物品内容！
+Vui lòng nhập nội dung Mô tả phần thưởng VIP!	请输入vip奖励描述内容！
+Thời gian kết thúc phải lớn hơn thời gian bắt đầu	结束时间应当大于开始时间
+Số ngày mở server Vui lòng nhập số nguyên dương!	开服天数请输入正整数！
+level thấp nhất Vui lòng nhập số nguyên dương	最小等级请输入正整数！
+level thấp nhất Không vượt quá level 200!	最小等级不能大于200级！
+level cao nhất Vui lòng nhập số nguyên dương!	最大等级请输入正整数！
+level cao nhất Không vượt quá level 200!	最大等级不能大于200级！
+level cao nhất không được nhỏ hơn level thấp nhất!	最大等级不能小于最小等级！
+Level VIP thấp nhất Vui lòng nhập số nguyên dương!	最小VIP等级请输入正整数！
+Level VIP thấp nhất không được vượt quá lv18!	最小VIP等级不能大于18级！
+Level VIP cao nhất Vui lòng nhập số nguyên dương!	最大VIP等级请输入正整数！
+Level VIP cao nhất không được vượt quá lv18!	最大VIP等级不能大于18级！
+Level VIP cao nhất không được nhỏ hơn level VIP thấp nhât!	最大VIP等级不能小于最小VIP等级！
+Sức chiến đấu tối thiểu Vui lòng nhập số nguyên dương!	最小战力请输入正整数！
+Sức chiến đấu tối thiểu Không được vượt quá	最小战力不能大于
+Sức chiến đấu tối đa Vui lòng nhập số nguyên dương	最大战力请输入正整数！
+Sức chiến đấu tối đa Không được vượt quá	最大战力不能大于
+Sức chiến đấu tối đa Không được bằng Sức chiến đấu tối thiểu!	最大战力不能等于最小战力！
+Pet ít nhất Vui lòng nhập số nguyên dương!	最少天宠请输入正整数！
+Pet ít nhất không được vượt quá 201!	最少天宠不能大于201！
+Pet nhiều nhất Vui lòng nhập số nguyên dương!	最多天宠请输入正整数！
+Pet nhiều nhất Không được vượt quá 201!	最多天宠不能大于201！
+Pet nhiều nhất Không được bằng Pet ít nhất!	最多天宠不能等于最少天宠！
+Tiền tối thiểu Vui lòng nhập số nguyên dương!	最小金额请输入正整数！
+Tiền tối thiểu Không được vượt quá	最小金额不能大于
+Tiền tối đa Vui lòng nhập số nguyên dương!	最大金额请输入正整数！
+Tiền tối đa Không được vượt quá	最大金额不能大于
+!	！
+Tiền tối đa Không được bằng Tiền tối thiểu!	最大金额不能等于最小金额！
+Cảnh báo! Bạn xác nhận lựa chọn thao tác Toàn server!?	警告！你是否确认选中全服操作！？
+Quản lý vận hành sự kiện (phản hồi toàn server tương đối chậm, vui lòng chọn cẩn thận) diễn giải đặc biệt: Chọn toàn bộ (Tất cả game server đang bật) Toàn server: (1 game server, cũng có thể bao gồm server cần thêm sau này)	运营活动管理 (全服响应较慢，请慎选) 特别说明：全选（所有开启中的游戏服）全服：（整个游戏的服务器，也包含将来要增加的服务器）
+Tên sự kiện	活动名称
+Loại hình sự kiện	活动类型
+Kênh sự kiện	活动渠道
+Phương thức	方式
+Xác suất chợ đen (bạc/vàng/KNB)	黑市概率(银两/金币/元宝
+Ngày tự nhiên	自然日
+Số ngày mở server	开服天数
+sự kiện phi chợ đen	非黑市活动
+Đóng mở SK liên server	跨服活动开关
+sự kiện:	活动：
+C.Trường Trục Lộc	逐鹿战场
+Có phải là liên server hay không:	是否跨服：
+Không liên server	不跨服
+Có phải bạn muốn sửa trạng thái liên server?	是否要修改跨服状态？
+Đóng thêm mới gói quà tặng	新增礼包关闭
+Đóng quản lý sự kiện gói quà tặng	关闭礼包活动管理
+Có mở không	是否开启
+Đóng thêm mới	新增关闭
+Bạn có xác nhận mở gói quà tặng này không!?	你是否确认开启该礼包码！？
+Vui lòng chọn sự kiện gói quà tặng tương ứng!	请选择的对应礼包活动！
+Loại gói quà tặng	礼包类型
+Tổng số gói quà tặng không được nhỏ hơn	礼包总数不能小于
+Tổng số gói quà tặng không được nhỏ hơn số lượng ban đầu! Số gốc:	礼包总数不能小于原来的总数！原条数 ：
+Thêm mới gói quà tặng	新增礼包
+Vật phẩm 1	物品一
+Vật phẩm 2	物品二
+Vật phẩm 3	物品三
+Vật phẩm 4	物品四
+Vật phẩm 5	物品五
+Chọn Kênh	渠道选择
+Tổng số thứ tự	序号总数
+Tên gói quà quá dài, không được vượt quá 40 ký tự!	礼包名过长，不能超过40个字符 ！
+Tên sự kiện quá dài, không được vượt quá 40 ký tự!	活动名过长，不能超过40个字符 ！
+Tổng số gói quà tặng quá lớn!	礼包总数过大！
+Vui lòng chọn Kênh tương ứng!	请选择对应渠道！
+Vui lòng nhập tên gói quà tặng!	请输入礼包名！
+Vui lòng nhập tên sự kiện!	请输入活动名！
+Vui lòng nhập tổng số gói quà tặng!	请输入礼包总条数！
+Quản lý Giftcode	礼包码管理
+Tên gói quà tặng	礼包名
+sự kiện thuộc	所属活动
+Vật phẩm gói quà tặng	礼包物品
+Lượt nhận	领取次数
+Tổng số Giftcode	礼包码总数
+Giftcode dư thừa	礼包码剩余
+Trạng thái quà	礼包状态
+1 mã nhiều lần	一码多次
+1 mã 1 lần	一码一次
+Vô hiệu lực	无效
+Có hiệu lực	有效
+Tạo hàng loạt	批量生成
+Xuất	导出
+Bạn có xác nhận tải Giftcode này không !?	你是否确认下载该礼包码！？
+Vui lòng chọn 1 gói quà tặng cần xuất!	请选择一个需要导出的礼包！
+Vui lòng chọn gói quà tặng cần xuất!	请选择需要导出的礼包！
+Vui lòng chọn 1 gói quà tặng cần chỉnh sửa!	请选择一个需要编辑的礼包！
+Vui lòng chọn gói quà tặng cần chỉnh sửa!	请选择需要编辑的礼包！
+Bạn có xác nhận tạo hàng loạt mã quà tặng không!?	你是否确认批量生成礼包码吗！？
+Thêm mới hàng loạt thành công!	批量新增成功！
+Vui lòng chọn 1 gói quà tương ứng!	请选择一个对应的礼包！
+Vui lòng chọn gói quà cần tương ứng!	请选择需要对应的礼包！
+Loại vật tư:	物资类型：
+Tặng vật phẩm	給予物品
+Role ID/Nickname	角色ID/昵称
+Tên đạo cụ	道具名
+Số lượng	数量
+Vui lòng nhập số lượng vật tư!	请输入物资数量！
+Số lượng vật tư Vui lòng nhập số nguyên dương!	物资数量请输入正整数！
+Block Role	封禁角色
+Roleid tách biệt bằng dấu phẩy	角色id以逗号分隔
+Nguyên nhân phong hiệu	封号原因
+Thao tác bang phái	帮派操作
+Feedback phong hiệu:	封号反馈：
+Vui lòng nhập số nguyên dương	请输入正整数
+Số lượng Role Block vượt quá 200! Vui lòng xóa bớt và thử lại!	封禁角色个数超过200！请删减后在试！
+Quản lí khóa nhân vật	封角色管理
+Khóa tài khoản	封账号
+Quản lý	管理
+Loại Block:	封禁类型：
+Thời lượng:	时长：
+Nguyên nhân Block:	封禁原因：
+Thao tác bang phái:	帮派操作：
+Không	无
+Đổi bang chủ	转移帮主
+Thời gian Block (phút	封禁时间(分
+Loại Block	封禁类型
+Nguyên nhân Block	封禁原因
+Block tài khoản	账号封禁
+Bạn có xác nhận mở Block này không!?	你是否确认解除该封禁！？
+Role ID/Nickname:	角色ID/昵称：
+Vật phẩmID:	物品ID：
+Số lượng vật tư:	物资数量：
+Kết quả tặng:	给予结果：
+Trạng thái:	状态：
+Cấm/ Cho phép:	禁止/允许：
+Cấm	禁止
+Giao	提交
+Giải thích định dạng mệnh lệnh	命令格式说明
+Lệnh Hướng dẫn	指令命
+Định dạng	格式
+Ví dụ	实例
+Mô tả	描述
+Thêm đạo cụ	添加道具
+Vật phẩm id，Số lượng	物品id，数量
+Thêm đạo cụ 1 chiếc	添加道具  1个
+Đạo cụ	道具
+Sửa VIP level	修改VIP等级
+Thăng 2 cấp	升到2级
+(Mao)	（毛）
+Tặng người chơi	給玩家
+Nạp 6 tệ (60KNB)	充值6元人民币（60元宝）
+Đặt người chơi	把玩家
+Đã kích và xóa khỏi bộ nhớ cache của server	踢掉线并从服务器缓存中移除
+Mệnh lệnh	命令
+Mệnh lệnh:	命令：
+Quản lý thẩm định quà nạp	充值礼包审核管理
+Tên sản phẩm	产品名称
+Đã không phải là trạng thái chưa thẩm định!	已经不是未审核状态！
+Quản lý nạp	充值管理
+Loại nạp	充值类型
+T.gian giao dịch	订单时间
+Mã giao dịch	订单号
+Loại platform	平台类型
+Tệ (xu	人民币(分
+Sản phẩm nạp	充值产品
+Có phát hàng hay không	是否发货
+Mặc định	缺省
+Áo Phi	奥飞
+Quản lý block	禁言管理
+Thời lượng	时长
+Gửi	发送
+Kết quả phong hiệu	封号结果
+Thời gian block (phút	禁言时间(分
+Nguyên nhân block	禁言原因
+Mở khóa	解禁
+Bạn có xác nhận bỏ lệnh block thay đổi Role không!?	你是否确认解除改角色封禁！？
+Bỏ!	解除！
+Vui lòng chọn Role cần bỏ block!	请选择需要解封的角色！
+Trang web này sử dụng frame, nhưng trình duyệt của bạn không hỗ trợ frame.	此网页使用了框架，但您的浏览器不支持框架。
+Đóng mở SK	活动开关
+Quản lý server	服务器管理
+Hằng số server	服务器常量
+Cài đặt cảnh báo	预警设置
+Ghi nhớ lĩnh quà của người chơi	玩家获取记录
+Tra cứu thông tin tài khoản	账号信息查询
+Tra cứu thông tin Role	角色信息查询
+Tra cứu vật phẩm Role	角色物品查询
+Tra cứu thuộc tính Role	角色属性查询
+Tra cứu túi Role	角色背包查询
+Quản lý tài khoản thiết bị	账号设备管理
+Thêm vật phẩm	添加物品
+Trừ vật phẩm	扣除物品
+Hướng dẫn	指令
+Block Role	禁封角色
+Quản lý Block	禁封管理
+Dừng hôn lễ dự định	禁止预定婚礼
+Quản lý gói quà nạp	充值礼包管理
+Thẩm định gói quà nạp	充值礼包审核
+Cấm chat	角色禁言
+Chức năng email	邮件功能
+Gửi email toàn server	全服发送邮件
+Cài đặt thông báo	公告设置
+Quản lý thông báo trong game	游戏内公告管理
+Gói quà	礼包
+Quản lý gói quà	礼包管理
+Đóng Giftcode	礼包码关闭
+Quản lý thiết lập lại nạp lần đầu	首充重置管理
+Vận hành sự kiện	运营活动
+Ghi nhớ thao tác	操作记录
+Nhật ký sự kiện	操作日志
+Mở rộng	展开
+Thu gọn	收缩
+Nhật ký Mệnh lệnh	命令日志
+Lọc	筛选
+Chấp hành mệnh lệnh	执行命令
+Kết quả thực hiện	执行结果
+Thời gian thực hiện	执行时间
+Kinh thiên động địa	惊天岳雷
+Tính năng xóa email nhiệm vụ	邮件任务删除功能
+Danh sách email nhiệm vụ	邮件任务列表
+Hẹn giờ Gửi	定时发送
+Gửi email toàn server (Tất cả server page lựa chọn phản hồi tương đối chậm	全服发送邮件 (所有服 选项响应较慢
+Level người chơi:	玩家等级：
+Thời gian bắt đầu:	开始时间：
+Thời gian kết thúc:	结束时间：
+Gửi tới email người chơi	发送玩家邮件
+RoleID/Ten gọi:	角色ID/名称：
+Email người chơi hàng loạt	批量玩家邮件
+Role ID nhiều chữ cái được phân cách bằng dấu phẩy	多个角色ID字母逗号分割
+Tiêu đề email:	邮件主题：
+Nội dung email:	邮件内容：
+Attachment 1:	附件一：
+Attachment 2:	附件二：
+Attachment 3:	附件三：
+Attachment 4:	附件四：
+Không attach	无附件
+Xác nhận gửi?	确定发送？
+Gửi email	发送邮件
+Lọc điều kiện	筛选条件
+Attachment	附件
+Kết quả gửi	发送结果
+Hạn chế level	等级限制
+Hạn chót	截止时间
+Trạng thái thẩm định	审核状态
+Mặc định	默认
+Đợi thẩm định	待审核
+Đã thẩm định	已审核
+GửiThất bại	发送失败
+Đã gửi	已发送
+Thẩm định	审核
+Bạn có xác nhận xóa những dữ liệu đã chọn?	你是否确认删除所选数据！？
+Trạng thái đăng ký không phải là trạng thái chưa thẩm định!	申请状态不是未审核的状态！
+Bạn có xác nhận thẩm định tất cả dữ liệu đã chọn!?	你是否确认审核所选数据！？
+Thẩm định!	审核！
+Vui lòng chọn thông tin cần thẩm định!	请选择需要审核的信息！
+Bạn không có quyền gửi thao tác này!	你没有权限进行发送该操作！
+Này	该
+Trạng thái đăng ký không phải là trạng thái đã thẩm định!	申请状态不是已审核的状态！
+Bạn có xác nhận gửi toàn bộ dữ liệu đã chọn!?	你是否确认发送所选数据！？
+Gửi!	发送！
+Vui lòng chọn thông tin cần gửi!	请选择需要发送的信息！
+Không được để trống tiêu đề email	邮件主题不能为空！
+Không được để trống nội dung thư!	邮件内容不能为空！
+Tiêu đề email không được vượt quá 50 ký tự!	邮件主题不能超过50个字符！
+Độ dài nội dung email không vượt quá 500 ký tự!	邮件内容长度不能超过500个字符！
+Vui lòng nhập RoleID hợp lệ!	请输入合法的角色id！
+Vượt quá 200 Role, Vui lòng nhập hợp lệ!	超过200个角色， 请合法输入！
+Thêm mới thông báo trong game	新增游戏内公告
+Tiêu đề thông báo	公告主题
+Khoảng thời gian quá dài!	间隔时间过长！
+Nội dung tiêu đề thông báo quá dài, không được vượt quá 40 ký tự!	通知主题内容过长，不能超过40个字符 ！
+Nội dung thông báo quá dài, không được vượt quá 250 ký tự!	通知内容过长，不能超过250个字符 ！
+Không được để trống thời gian bắt đầu!	开始时间不能为空！
+Không được để trống thời gian kết thúc!	结束时间不能为空！
+Thời gian kết thúc phải lớn hơn thời gian bắt đầu!	结束时间应当大于开始时间！
+Vui lòng nhập khoảng thời gian!	请输入间隔时间！
+Vui lòng nhập tiêu đề!	请输入主题！
+Vui lòng nhập nội dung thông báo!	请输入通知内容！
+Quản lý thông báo trong game (Khi lựa chọn nhiều mục xóa, yêu cầu nhiều server, thời gian chờ đợi sẽ càng lâu	游戏内公告管理 (选择多个删除时请求多个服务器等待更久
+Phương thức thông báo	公告方式
+Phương thức hiển thị	显示方式
+Khoảng thời gian	间隔
+Tiêu đề	主题
+Nội dung	内容
+Pop-up thông báo	弹出公告
+Phát lịch trình thời gian	时间安排播放
+Top	置顶
+Cột chat	聊天栏
+Vui lòng chọn một thông báo để chỉnh sửa!	请选择一个公告进行编辑！
+Chỉnh sửa update thông báo	编辑更新公告
+Nội dung tiêu đề quá dài, 54 ký tự!	标题内容过长，54个字符 ！
+Nội dung thông báo quá dài, 54 ký tự!	通知内容过长，54个字符 ！
+Nội dung thông báo quá dài, 1998 ký tự!	通知内容过长，1998个字符 ！
+Thêm mới update thông báo	新增更新公告
+Lựa chọn cụm	大区选择
+Chọn tất cả	全选
+Chọn ngược	反选
+Trong các ký tự	个字符以内
+Nội dung thông báo quá dài, 1000 ký tự!	通知内容过长，1000个字符 ！
+Nội dung tiêu đề quá dài, 50 ký tự!	标题内容过长，50个字符 ！
+Lựa chọn cụm tương ứng!	请选择对应大区！
+Vui lòng nhập nội dung thông báo hoặc tiêu đề!	请输入通知或标题内容！
+Độ dài số thông báo vượt quá giới hạn!	公告编号长度超过限制！
+Vui lòng nhập số nguyên dương!	请输入正整数的编号！
+Quản lý thông báo update	更新公告管理
+Số thông báo	公告编号
+Tiêu đề thông báo	公告标题
+Nội dung thông báo	公告内容
+Loại hình thông báo	公告类型
+Thời gian update	更新时间
+Thông báo	公告
+sự kiện	活动
+Thêm mới bảng câu hỏi	新增问卷
+Tiêu đề	标题
+Quản lý bảng câu hỏi	问卷管理
+Tiêu đề bảng câu hỏi	问卷标题
+Bảng câu hỏi	问卷
+Thời gian bắt đầu	开始时间
+Thời gian kết thúc	结束时间
+Bạn xác nhận xóa bảng câu hỏi này!?	你是否确认解除该问卷！？
+Vui lòng nhập tiêu chí tìm kiếm!	请输入搜索条件！
+Thiết lập lại nạp lần đầu	首充重置
+Vui lòng chọn server tương ứng!	请选择对应服务器！
+Quản lý thiết lập lại nạp lần đầu	重置首充管理
+Thời gian thao tác	操作时间
+GMT Trung tâm kiểm soát Kinh thiên động địa	惊天岳雷中控后台
+Tên tài khoản:	账号名：
+Tên tài khoản	账户名
+Người chơi	玩家
+Sức chiến đấu	战斗力
+Công vật lý	物理攻击
+Phòng vật lý	物理防御
+Công phép	魔法攻击
+Phòng phép	魔法防御
+Lượng máu	血量
+Lượng máu nhiều nhất	最大血量
+Phép	魔法
+Phép nhiều nhất	最大魔法
+Trúng	命中
+Né	躲闪
+Bạo kích	暴击
+Khả năng phục hồi	韧性
+Tất sát	必杀
+Phòng thủ	格挡
+Vật phẩm	物品
+Nickname Vật phẩm	物品呢称
+Cấp Vật phẩm	物品等级
+Số lượng Vật phẩm	物品数量
+Loại vùng chứa	容器类型
+Túi	背包
+Cột trang bị	装备栏
+Nông trại	农场
+Người chơi Tra cứu nạp	玩家充值查询
+ID đơn hàng:	订单ID：
+Số lượt Tra cứu:	查询条数
+Đơn hàng	订单
+Số tiền (xu	金额(分
+Trạng thái khởi tạo	发起状态
+Trạng thái phát hàng	发货状态
+Server kiểm soát Đơn hàng	中控服订单
+Khởi tạo	发起
+Thành công	成功
+Chưa phát hàng	未发货
+Đã phát hàng	已发货
+Đơn hàng game server	游戏服订单
+Trống	空
+Vui lòng chọn server tương ứng!	请选择对应的服务器！
+Vui lòng nhập một đơn hàng điều kiện Tra cứu bất kỳ	请输入任一一个查询条件订单
+Chỉ có thể căn cứ theo RoleID	只能根据 角色id
+Một trong các Tra cứu	其中一个查询
+Vui lòng nhập số nguyên dương!	请输入正整数！
+Số Tra cứu vui lòng nhập từ 1-50	查询条数请输入1-50的数字
+Trang chủ	首页
+Trang trước	上一页
+Trang sau	下一页
+Trang cuối	尾页
+Nhảy qua	跳转
+Cộng	共
+dải	条
+Đã đến trang cuối	已到尾页
+Hết	前面没有了
+Đã là Trang chủ	已是首页
+Đã là Trang cuối!	已是尾页！
+Đã là trang này rồi!	已是该页面！
+Mã trang bạn nhập bị sai!	您输入的页码有误！
+Thêm mới Role White list	新增角色白名单
+Hỗ trợ bắt đầu định vị số	支持开始数字定位
+Feedback:	反馈：
+Không được để trống RoleID	角色ID不能为空
+Vui lòng nhập RoleID hợp lệ!	请输入合法的角色ID！
+Quản lý server nội bộ	内服管理
+Lưu ý	备注
+Giám sát server nội bộ	内服监控
+Cụm	大区
+Nickname Người chơi	玩家昵称
+Cấp Người chơi	玩家等级
+Lưu ý nội bộ	内部备注
+Phát hành tích lũy	累计发放
+Cảnh báo gian hàng	摆摊预警
+Lưu ý báo động	报警备注
+Thêm thời gian	添加时间
+Xác nhận	确定
+[Hệ thống]	【系统】
+；	；
+CụmID:	大区ID：
+Tra cứu RoleID:	角色ID查询：
+Trạng thái Role	角色状态：
+Block	封禁
+Cảnh báo gian hàng:	摆摊预警：
+Tất cả	所有
+Cảnh báo	预警
+Role Nickname:	角色呢称：
+Nickname	呢称
+Game coin	游戏币
+KNB	元宝
+KNB ràng buộc	绑定元宝
+Level	等级
+Thời gian tạo	创建时间
+Thời gian đăng nhập sau cùng	最后登录时间
+Có online hay không	是否在线
+Trạng thái tài khoản	账号状态
+Xem chi tiết	查看详情
+Online	在线
+Thoát	离线
+Phong hiệu	封号
+block	禁言
+Tra cứu chi tiết	查询详情
+Vui lòng chọn thông tin cần Tra cứu!	请选择需要查询的信息！
+Khác	其它
+Vũ khí	武器
+Trang phục	衣服
+Mũ	帽子
+Đai lưng	腰带
+Hộ thủ	护手
+Giày	鞋子
+Vòng cổ	项链
+Nhẫn	戒指
+Bùa	护符
+Vòng tay	手镯
+Địa chỉ:	地址：
+Bang phái	帮派：
+Thời gian tham gia:	加入时间：
+Cấp	级
+Cột trang bị:	装备栏：
+Cường hóa	强化：
+Tên trang bị:	装备名：
+Bảo Thạch khảm:	镶嵌宝石：
+Pet ID:	宠物id：
+Thăng cấp sao:	升星：
+Kỹ năng:	技能：
+Tướng linh:	将灵：
+Level:	等级：
+Bậc:	军阶：
+Khả năng chiến đấu:	战力：
+Khả năng chiến đấu hạ cấp:	下级战力：
+Thú cưỡi:	坐骑：
+Chọn tất cả hàng:	行全选：
+Ẩn server	隐藏服务器
+Hiển thị server	显示服务器
+RoleID:	角色ID：
+Tra cứu	查询
+Có muốn sửa không	是否修改
+Không có thiết bị	无设备
+Chưa sửa	未修改
+Đã sửa	已修改
+Sửa	修改
+Sửa đổi tài khoản thiết bị đăng nhập	修改账号登录设备
+Tài khoản	账号
+Thiết bị	设备
+Tiêu chí tìm kiếm	搜索条件
+Vui lòng chọn server	请选择服务器
+Teen Người chơi	玩家名称
+Nội dung Cảnh báo	预警内容
+Đánh giá phiên bản server	提审服版本
+Client giống với phiên bản server thẩm định chỉ có thể xem server thẩm định trong danh sách server, khi phiên bản chính thức lên store, vui lòng để trống bản server thẩm định	和提审服版本相同的客户端在服务器列表中只能看到提审服，版本正式上架时，请清空提审服版本
+Phiên bản client:	客户端版本：
+Chỉnh sửa thông tin Kênh server	编辑渠道服务器信息
+Dòng này sẽ thêm màu bối cảnh cho tất cả tr	这行将给所有的tr加上背景色
+Màu nền của con trỏ được tô sáng	这个将是鼠标高亮行的背景色
+Quản lý Kênh server	渠道服务器管理
+Tên Kênh server	渠道服务器名
+Trên biểu mẫu tr, thực thi hàm	的表格的tr上时，执行函数
+Các hàng được đánh số chẵn của bảng, thêm giá trị class thành...	的表格的偶数行添加class值为
+Mỗi trang hiển thị một số record	每页显示几条记录
+Vượt quá giới hạn từ, từ vượt quá sẽ bị cắt bớt!	超过字数限制，多出的字将被截断！
+Vui lòng nhập tên Kênh Cụm server!	请输入渠道分区名称！
+Chỉnh sửa thông tin Kênh Cụm server	编辑渠道分区信息
+Tên Kênh phân dùng quá dài, không được vượt quá 500 ký tự!	渠道分区名过长，不能超过500个字符 ！
+Vui lòng chọn Kênh tương ứng!	请选择对应渠道 ！
+Vui lòng nhập tên Kênh server!	请输入渠道服务器名称！
+Quản lý Kênh Cụm server	渠道分区管理
+Kênh	渠道
+Tên Kênh Cụm server	渠道分区名
+Kiểm tra liên kết game server	检查游戏服连接
+Sau khi game server khởi động lại, kiểm tra trạng thái liên kết game server và trung tâm kiểm soát	游戏服重启后，检查中控与游戏服的连接状态是否正常
+Tất cả server	所有服
+Có phải bắt đầu kiểm tra?	是否开始检查？
+Bắt đầu kiểm tra	开始检查
+Các hằng số mới	新增常量
+Tên hằng số	常量名称
+Vui lòng nhập tên hằng số!	请输入常量名！
+Vui lòng nhập giá trị hằng số!	请输入常量值！
+Quản lý hằng số server	服务器常量管理
+Ví dụ: người gửi email hệ thống:	例子：系统邮件发件人：
+Nhóm dự án XXX	×××项目组
+Tên hằng số	常量名
+Gía trị hằng số	常量值
+Bạn có xác nhận xóa bỏ hằng số này không!?	你是否确认解除该常量！？
+White list IP (khi lựa chọn toàn server, phản hồi tương đối lâu)	白名单IP （选择全服时，响应较久）
+Địa chỉ (1 hàng 1 địa chỉ):	地址（一行一个）：
+Địa chỉ	地址
+Toàn server	全服
+Trước khi đóng server, trước tiên cần phải sửa trạng thái server thành chưa khởi động hoặc trạng thái đang bảo trì, sau đó kích người chơi offline, rồi đóng quy trình server	关服前，请先到服务器编辑哪里把服务器状态置为未开启或维护中状态，再踢用户下线，然后关闭服务器进程
+server:	服务器：
+Nhắc nhở người chơi:	玩家提示：
+Có cần kích offline không?	是否要踢玩家下线？
+Kích offline	踢玩家下线
+Kết quả:	结果：
+Trạng thái sửa server hàng loạt	批量修改服务器状态
+Chọn toàn bộ:	全选：
+Sửa thông tin server	编辑服务器信息
+server	服务器
+Tên server	服务器名
+Game server bình thường	正常游戏服
+Liên server (không hiển thị)	跨服服务器（不显示）
+Miền IP mạng công cộng	公网ip或域
+Port liên server ( điền vào liên server	跨服端口 (跨服请填
+Có ẩn hay không	是否隐藏
+Danh sách game server (tách biệt)	游戏服列表（隔开）
+Có mở nạp không	是否开启充值
+Có mở white list không	是否开启白名单
+Có đồng ý tạo Role không	是否允许创建角色
+Cho phép	允许
+Không Cho phép	不允许
+Số người đăng nhập nhiều nhất	最大登录人数
+Số người đăng nhập mỗi s	每秒登录人数
+Đạt đến giới hạn số s chờ	达到限制等待秒数
+Đề xuất giới hạn trên số lượt	推荐人数上限
+Có đề xuất hay không	是否推荐
+Không đề xuất	不推荐
+Diễn giải	说明
+Vui lòng nhập serverID!	请输入服务器ID！
+Vui lòng nhập tên server!	请输入服务器名！
+Vui lòng nhập Miền IP mạng công cộng	请输入公网ip或域
+Vui lòng nhập địa chỉ serverip	请输入服务器ip地址
+Vui lòng nhập Diễn giải!	请输入说明！
+serverid quá dài!	服务器id过长！
+Tên server quá dài!	服务器名过长！
+ID server gộp quá dài!	合服id过长！
+Gía trị port không hợp lệ!	端口值非法！
+Số người đăng nhập mỗi s quá lớn!	每秒登录人数过大！
+Thiết lập số người chờ đợi quá lớn!	等待人数设置过大！
+Lượng quyền thúc đẩy quá lớn!	推荐权重过大！
+Số người đăng nhập nhiều nhất quá lớn!	最大登录人数过大！
+Quản lý game server	游戏服务器管理
+Tên	名称
+Loại	类型
+Gộp server	合服
+Mạng công	公网
+Mạng nội bộ	内网
+Port	端口
+Trạng thái	状态
+Nạp	充值
+White list	白名单
+Tạo role	创角
+giới hạn trên đăng nhập	登录上限
+giới hạn mỗi s	每秒上限
+Số s chờ đợi	等待秒数
+Lượng đề xuất	推荐权重
+giới hạn đề xuất trên	推荐上限
+Chuyển đổi liên server	跨服开关
+Thời gian mở server	开服时间
+Thông báo đóng server	关服提示
+Game server	游戏服
+Đánh giá server	提审服
+Liên server	跨服
+Chưa khởi tạo	未开启
+Đang bảo trì	维护中
+Bình thường	正常
+Bạo phát	火爆
+Đề xuất	推荐
+server mới	新服
+Hiển thị	显示
+Ẩn	隐藏
+Bạn có xác nhận xóa dòng dữ liệu này không!?	你是否确认删除该条数据！？
+Xóa thành công!	删除成功！
+Vui lòng chọn thông tin cần xóa!	请选择需要删除的信息！
+Thêm mới sự kiện	新增活动
+Loại nguyên liệu	材料类型
+Nội dung nguyên liệu	材料内容
+Gía trị Cảnh báo	预警值
+Vui lòng nhập số nguyên hợp lệ!	请输入合法整数！
+Record Cảnh báo	预警记录
+Tên server	服务器名称
+Tên Người chơi	玩家名
+Role	角色
+Thời gian	时间
+Thông tin nhận	获取信息
+Bạn có xác nhận xóa bỏ sự kiện này!?	你是否确认解除该活动！？
+Vui lòng chọn sự kiện xóa bỏ!?	请选择删除的活动！
+Quản lý Cụm server game	游戏分区管理
+Thêm mới/Cụm server chỉnh sửa	新增/编辑分区
+Cụm server	分区
+Tên Cụm server	分区名称
+Thao tác	操作
+Có muốn xóa bỏ không?	是否要删除？
+Không thể để trống Cụm serverID!	分区ID不能为空！
+Không thể để trống tên Cụm server!	分区名称不能为空！
+Kết quả Tra cứu:	查询结果：
+Danh sách server:	服务器列表：
+Tham số cài đặt:	设置参数：
+Cài đặt	设置
+Server lỗi:	错误的服务器：
+Kính gửi	尊敬的
+Xin chào!	您好！
+Exit	退出
+Đã khởi tạo	已开启
+Đã đóng	已关闭
+Khởi tạo	开启
+Đóng	关闭
+Mật khẩu cũ mặc định	默认旧密码
+Người dùng mới	新增用户
+Mật khẩu	密码
+Xác nhận Mật khẩu	确认密码
+Loại người dùng	用户类型
+Có hiệu lực	生效
+Không Có hiệu lực	不生效
+Khu vực	区
+Đã tồn tại!	已存在！
+Lưu giữ	保存
+Quay lại	返回
+Vui lòng nhập Mật khẩu!	请输入密码！
+Vui lòng nhập Tên người dùng hợp lệ!	请输入合法的用户名！
+Mật khẩu không đúng, Vui lòng nhập lại	密码不一致，请重新输入
+Quản lý người dùng	用户管理
+Tên người dùng	用户名
+Loại role	角色类型
+Có hiệu lực hay không	是否生效
+Người tạo	创建者
+Quyền hạn Kênh tương ứng	对应渠道权限
+Người quản lý	管理员
+Người dùng	用户
+Người dùng phổ thông	普通用户
+Đã Có hiệu lực	已生效
+Chưa Có hiệu lực	未生效
+Thêm mới	新增
+Chỉnh sửa	编辑
+Xóa	删除
+Vui lòng chọn thông tin cần xóa!	请选择需要编辑的信息！
+Người quản lý không thể bị xóa!	管理员不能被删除！
+Bạn có xác nhận xóa người dùng này không!?	你是否确认解除该用户！？
+Xóa!	删除！
+Vui lòng chọn người dùng bị xóa!	请选择删除的用户！
